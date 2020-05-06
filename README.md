@@ -1,16 +1,12 @@
-# flutterbmicalculator
-
+# BMI Calcumator - Health App 
 BMI(Body Mass Index ) calculator
 
-## Getting Started
+# Learning Objective :
+1. Using Flutter Themes
+2. Customizing flutter widget
+3. GestureDetector widget
+4. Flutter Slider widget
+5. Customizing widgets using themes
+6. Using Routes and Navigation
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
